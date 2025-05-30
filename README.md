@@ -7,6 +7,9 @@
 🎯 Future Goals: Master red team operations and contribute to creating secure digital environments.
 
 ---
+<p align="left"> <a href="https://www.linkedin.com/in/kashyyapp/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/Kashyap1342342" target="_blank"> <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <img src="https://img.shields.io/badge/DISCORD-Kashyyap%234374-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </p>
+
+---
 
 ### Languages I use
 <p>
