@@ -45,3 +45,7 @@
 ---
 
 <img align="right" src="./your-image-file.png" width="400" />
+
+---
+
+![Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashyyapp&show_icons=true&theme=radical)
