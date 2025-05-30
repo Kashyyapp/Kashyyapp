@@ -9,6 +9,7 @@
 ---
 
 ### Languages I use
+<p><img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=c" alt="C">
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -41,8 +42,6 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" />
 </p>
-
----
 
 ---
 
